@@ -28,7 +28,7 @@ body, html {
     justify-content: center;
     align-items: center;
     background-color: #000;
-    background-image: url('image/Main\ background.png');
+    background-image: url('image/Main image.png');
     background-size: cover;
     background-position: center;
     color: #573d3e;
@@ -69,7 +69,7 @@ body, html {
     justify-content: center;
     align-items: center;
     background-color: #222;
-    background-image: url('image/인물3.jpg');
+    background-image: url('image/Character3.jpg');
     background-size: cover;
     background-position: center;
     color: #f0e0d6;
